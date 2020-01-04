@@ -1,4 +1,4 @@
-package sbc
+package sdcgo
 
 import (
 	"testing"
